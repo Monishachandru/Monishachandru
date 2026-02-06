@@ -1,82 +1,169 @@
 # 👩‍💻 Monisha C  
-**Digital Forensics & Cybersecurity Portfolio**
+### 🔐 Digital Forensics & Cybersecurity Portfolio
 
-🎓 MSc Digital Forensics & Information Security Student  
-🔐 Aspiring Digital Forensic Analyst | SOC Analyst | Cybersecurity Enthusiast  
+🎓 MSc Digital Forensics & Information Security  
+🛡️ Aspiring Digital Forensic Analyst | SOC Analyst | Incident Responder  
 📍 Bangalore, India  
 
 ---
 
 ## 👋 About Me
 
-I am a passionate and detail-oriented postgraduate student specializing in **Digital Forensics and Information Security**. My interests lie in cybercrime investigation, digital evidence analysis, incident response, and network security monitoring.
+I am a passionate cybersecurity and digital forensics postgraduate with a strong interest in **cybercrime investigation, incident response, and threat detection**. I enjoy analyzing digital evidence, investigating security incidents, and building secure systems that protect sensitive information.
 
-I enjoy working with forensic tools, analyzing attack patterns, and building security-focused systems that solve real-world problems. I am continuously learning and applying cybersecurity concepts through practical labs, research, and hands-on projects.
+With hands-on experience in forensic tools, network monitoring, and vulnerability assessment, I focus on bridging the gap between **theoretical security knowledge and real-world cyber defense practices**.
+
+I am continuously improving my skills through labs, projects, research, and practical exposure to modern security tools and frameworks.
+
+---
+
+## 🎯 Career Objective
+
+To work in a challenging cybersecurity environment where I can contribute to **digital investigations, SOC operations, and incident response**, while continuously growing as a security professional.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔍 Digital Forensics  
-Autopsy • FTK • EnCase • Volatility • Redline • ExifTool • VeraCrypt  
-Disk Imaging • Deleted File Recovery • RAM Dump Analysis • Metadata Analysis  
+### 🔍 Digital Forensics & Investigation
+- Disk Imaging & Cloning  
+- Deleted File Recovery  
+- RAM Dump & Memory Analysis  
+- Metadata & Email Header Analysis  
+- Evidence Handling & Reporting  
 
-### 🌐 Network & Traffic Analysis  
-Wireshark • tcpdump • Nmap • Netcat • nslookup • dig • traceroute  
-
-### 🛡️ SOC & Security Tools  
-Splunk • Wazuh • Elastic • CrowdStrike Falcon • Microsoft XDR  
-
-### 💻 Scripting & Systems  
-Python (Forensics & Automation) • Linux (Kali) • Windows Forensics  
-Bash • PowerShell • Git & GitHub • Regex  
-
-### 🧪 Vulnerability Assessment & Security Testing  
-Burp Suite • Nessus • OpenVAS • Nikto • OWASP ZAP • Metasploit  
-
-### 📚 Frameworks & Standards  
-NIST Incident Response Lifecycle • NIST 800-53 • ISO 27001 • HIPAA • PCI-DSS  
+**Tools:** Autopsy, FTK, EnCase, Volatility, Redline, ExifTool, VeraCrypt, Cryptool  
 
 ---
 
-## 💼 Experience
+### 🌐 Network Security & Traffic Analysis
+- Packet Capture & Analysis  
+- Network Log Investigation  
+- DNS & IP Analysis  
+- Intrusion Detection Basics  
+
+**Tools:** Wireshark, tcpdump, Nmap, Netcat, nslookup, dig, traceroute  
+
+---
+
+### 🛡️ SOC & Threat Monitoring
+- Log Analysis & Event Correlation  
+- SIEM Monitoring  
+- Endpoint Detection & Response (EDR)  
+- Basic Incident Triage  
+
+**Tools:** Splunk, Wazuh, Elastic, CrowdStrike Falcon, Microsoft XDR  
+
+---
+
+### 🧪 Vulnerability Assessment & Security Testing
+- Web Application Security Testing  
+- Network Vulnerability Scanning  
+- Basic Exploitation Techniques  
+
+**Tools:** Burp Suite, Nessus, OpenVAS, Nikto, OWASP ZAP, Metasploit  
+
+---
+
+### 💻 Scripting & Operating Systems
+- Python (Forensics, Automation, Security Tools)  
+- Linux (Kali)  
+- Windows Forensics  
+- Bash & PowerShell  
+- Git & GitHub  
+
+---
+
+### 📚 Security Frameworks & Standards
+- NIST Incident Response Lifecycle  
+- NIST 800-53  
+- ISO 27001  
+- HIPAA  
+- PCI-DSS  
+
+---
+
+## 💼 Professional Experience
 
 ### 🔐 Cybersecurity Intern — Redynox (Remote)
 
-- Conducted **network traffic analysis** to detect anomalies and potential intrusions  
-- Performed **Vulnerability Assessment & Penetration Testing (VAPT)**  
-- Used tools like **Nmap, Burp Suite, and Nessus**  
-- Gained hands-on exposure to **SOC operations**, including log analysis and event correlation  
-- Assisted in **web application security testing** and basic incident response  
-- Worked across **Kali Linux and Windows environments** for investigations  
+During my internship, I gained practical exposure to real-world cybersecurity operations:
+
+- Performed **network traffic analysis** to detect anomalies and suspicious patterns  
+- Conducted **Vulnerability Assessment & Penetration Testing (VAPT)**  
+- Worked with tools like **Nmap, Burp Suite, and Nessus**  
+- Assisted in **SOC activities**, including log monitoring and event correlation  
+- Participated in **web application security testing**  
+- Supported **basic incident response investigations**  
+- Worked in both **Kali Linux and Windows environments**
+
+This experience strengthened my understanding of **threat detection, attack surfaces, and defensive security practices**.
 
 ---
 
-## 🚀 Projects
+## 🚀 Cybersecurity & Forensics Projects
 
 ### 🗳️ IoT Voting Machine  
-Designed a secure IoT-based voting system focusing on vote integrity and secure data transmission.
+Developed a secure IoT-based voting prototype focusing on:
+- Vote integrity  
+- Secure communication  
+- Data protection concepts in embedded systems  
 
-### ☁️ Cloud Platform – My Notes  
-Developed a cloud-based secure notes platform emphasizing privacy and data protection.
+---
+
+### ☁️ Cloud Platform – Secure Notes  
+Built a cloud-based notes platform with:
+- Secure storage principles  
+- User data protection focus  
+- Basic access control implementation  
+
+---
 
 ### 🛂 Passport Identification using Machine Learning  
-Built a machine learning system to identify passport details and verify authenticity.
+Created an ML-based system capable of:
+- Extracting passport details  
+- Verifying authenticity  
+- Applying pattern recognition for document validation  
+
+---
 
 ### 🔐 AES Encryption & Decryption using Python  
-Implemented AES cryptography to understand encryption, decryption, and secure data handling.
+Implemented AES cryptography to:
+- Understand symmetric encryption  
+- Secure sensitive data  
+- Demonstrate practical cryptographic workflows  
 
-### 📱 Instagram Account Authenticity Prediction System  
-Created a system to detect fake or suspicious social media accounts using data analysis techniques.
+---
+
+### 📱 Instagram Account Authenticity Prediction  
+Designed a system that:
+- Analyzes social media account data  
+- Detects suspicious or fake accounts  
+- Uses data-driven indicators for authenticity prediction  
+
+---
 
 ### 📁 Secure File Transfer Application (Hybrid Encryption)  
-Developed a GUI-based Python application using hybrid encryption for secure file sharing.
+Developed a GUI-based Python application that:
+- Uses hybrid cryptography (symmetric + asymmetric)  
+- Ensures secure file transmission  
+- Demonstrates real-world encryption implementation  
+
+---
 
 ### ⛓️ Blockchain-Based Evidence Integrity System *(Ongoing)*  
-Working on a blockchain solution to ensure tamper-proof storage of digital forensic evidence.
+A forensic-focused project aiming to:
+- Store evidence hashes on blockchain  
+- Prevent tampering  
+- Ensure integrity of digital evidence  
+
+---
 
 ### 📷 Height Detection Camera using Python *(Ongoing)*  
-Computer vision project to detect and measure human height using image processing techniques.
+Computer vision project that:
+- Detects a person in camera feed  
+- Estimates height using image processing  
+- Applies practical CV techniques  
 
 ---
 
@@ -101,12 +188,16 @@ Jain School of Sciences, Bangalore
 
 ## 🧠 Areas of Interest
 
-Digital Forensics • Incident Response • Malware Analysis • Network Security  
-Threat Detection • Cybercrime Investigation • Evidence Handling  
+✔ Digital Forensics  
+✔ Incident Response  
+✔ SOC Operations  
+✔ Malware & Threat Analysis  
+✔ Cybercrime Investigation  
+✔ Network Defense  
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
 📧 Email: monishachandru0302@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/monisha-c  
@@ -114,5 +205,4 @@ Threat Detection • Cybercrime Investigation • Evidence Handling
 
 ---
 
-⭐ *“Securing the digital world, one investigation at a time.”*
-
+⭐ **“Securing the digital world, one investigation at a time.”**
